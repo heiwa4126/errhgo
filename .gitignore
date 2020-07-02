@@ -123,3 +123,4 @@ inc/
 # End of https://www.gitignore.io/api/go,perl,emacs,visualstudiocode
 
 errhgo
+cover.*
